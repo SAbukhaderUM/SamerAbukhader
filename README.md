@@ -54,7 +54,7 @@
 
 <h2 align="center">Contact me</h2>
 
-📩・ Dm discord [VENOM#0003](https://discord.com/users/273963892256800768) or mail SarnaxOfficial@protonmail.com
+📩・ Dm discord [VENOM#0003](https://discord.com/users/273963892256800768) or mail sakhader_2003@hotmail.com
 
 📮・The language I'm good at  LUA  Python  HTML  JAVA  JAVASCRIPT  SQL  
 
