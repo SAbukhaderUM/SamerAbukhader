@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![SARNAX_copy](https://mpng.subpng.com/20181115/urf/kisspng-university-of-malaya-doel-logo-brand-5bed619fe01558.2970360615422836799179.jpg)
+  ![SARNAX_copy](https://umhackathon.fsktm.um.edu.my/images/fcsit.png)
 
 
 <p align="center">
