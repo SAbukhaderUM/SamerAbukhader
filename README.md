@@ -36,7 +36,7 @@
   <img alt="lua" src="https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=LUA&logoColor=4d79e9"></a>
   <img alt="java" src="https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA&logoColor=ed8a11"></a>
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
- < <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
+  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
   <img alt="python" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=00648B"></a>
 </p>
 
