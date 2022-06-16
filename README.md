@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="">
+  <a href="" target="_blank">
    <img alt="Github" src="https://img.shields.io/badge/TEST-WEBSITE-red"></a> 
   
 
@@ -15,9 +15,9 @@
   
 </p>
 <p align="center">
-    <a href="https://discord.com/users/273963892256800768">
+    <a href="https://discord.com/users/273963892256800768" target="_blank">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-VENOM%230003-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/SamerAbukhader/">
+  <a href="https://github.com/SamerAbukhader/" target="_blank">
    <img alt="Github" src="https://img.shields.io/github/followers/SamerAbukhader?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
@@ -45,7 +45,7 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/SamerAbukhader">
+    <a href="https://github.com/SamerAbukhader" target="_blank">
         <img title="SamerAbukhader stats" alt="SamerAbukhader's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SamerAbukhader&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
@@ -64,7 +64,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/273963892256800768">
+    <a href="https://discord.com/users/273963892256800768" target="_blank">
         <img title="Discord" alt="SamerAbukhader's discord" src="https://discord.c99.nl/widget/theme-2/273963892256800768.png"/>
     </a>
 </p>
