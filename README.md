@@ -65,7 +65,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/273963892256800768">
-        <img title="Sarnax server discord" alt="SamerAbukhader's discord" src="https://discord.c99.nl/widget/theme-3/273963892256800768.png"/>
+        <img title="Discord" alt="SamerAbukhader's discord" src="https://discord.c99.nl/widget/theme-3/273963892256800768.png"/>
     </a>
 </p>
 
